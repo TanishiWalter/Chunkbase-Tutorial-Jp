@@ -1,5 +1,11 @@
 # シードマップの使い方
 
+<a href="https://github.com/TanishiWalter/Seedmap-Jp#%E3%83%90%E3%83%BC%E3%82%B8%E3%83%A7%E3%83%B3%E3%81%AE%E8%A8%AD%E5%AE%9A%E6%96%B9%E6%B3%95">バージョンの設定方法 </a>
+<a href="https://github.com/TanishiWalter/Seedmap-Jp#%E6%AC%A1%E5%85%83%E3%81%AE%E8%A8%AD%E5%AE%9A%E3%81%AE%E3%81%97%E3%81%8B%E3%81%9F">次元の設定のしかた </a>
+<a href="https://github.com/TanishiWalter/Seedmap-Jp#%E3%82%B7%E3%83%BC%E3%83%89%E3%81%AE%E8%A8%AD%E5%AE%9A%E6%96%B9%E6%B3%95">シードの設定方法 </a>
+<a href="https://github.com/TanishiWalter/Seedmap-Jp#%E8%A6%8B%E3%81%A4%E3%81%91%E3%81%9F%E3%81%84%E3%82%BF%E3%83%BC%E3%82%B2%E3%83%83%E3%83%88%E3%81%AE%E9%81%B8%E3%81%B3%E6%96%B9">見つけたいターゲットの選び方 </a>
+
+
 ## バージョンの設定方法
 
 <img src="files\menuSS1.png" alt="スクリーンショット１"><img>
