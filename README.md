@@ -1,5 +1,9 @@
 # シードマップの使い方
 
+<div align="center">
+  <a href="https://www.chunkbase.com/apps/seed-map#-7814682534755691980">このチュートリアルで使っているウエブページ</a>
+</div>
+
 <a href="https://github.com/TanishiWalter/Seedmap-Jp#%E3%83%90%E3%83%BC%E3%82%B8%E3%83%A7%E3%83%B3%E3%81%AE%E8%A8%AD%E5%AE%9A%E6%96%B9%E6%B3%95">バージョンの設定方法 </a>
 <a href="https://github.com/TanishiWalter/Seedmap-Jp#%E6%AC%A1%E5%85%83%E3%81%AE%E8%A8%AD%E5%AE%9A%E3%81%AE%E3%81%97%E3%81%8B%E3%81%9F">次元の設定のしかた </a>
 <a href="https://github.com/TanishiWalter/Seedmap-Jp#%E3%82%B7%E3%83%BC%E3%83%89%E3%81%AE%E8%A8%AD%E5%AE%9A%E6%96%B9%E6%B3%95">シードの設定方法 </a>
